@@ -1,10 +1,10 @@
 # horify
 
-horify is a work-in-progress tool to automate the setup of custom icons for the Nintendo switch [horify-theme](https://github.com/StankWizardLizard/cartify-theme)
+horify is a work-in-progress tool to automate the setup of custom icons for the Nintendo switch [horify-theme](https://github.com/StankWizardLizard/horify-theme)
 
 ## Getting Started
 
-Before we can get started with using this tool you need to make sure you have dumped your titles from your swith into a titles.csv file
+Before we can get started with using this tool you need to make sure you have dumped your titles from your swith into a titles.csv file, see example:
 
 ```
 Title ID|Title Name
@@ -15,6 +15,8 @@ Title ID|Title Name
 0100C9A00ECE6000|Nintendo 64 - Nintendo Switch Online
 010012F017576000|Game Boy Advance – Nintendo Switch Online
 ```
+
+This is still a work in progress so expect changes in the future
 
 ### Prerequisites
 
